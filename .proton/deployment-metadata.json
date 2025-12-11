@@ -1,0 +1,10 @@
+{
+  "deploymentId": "sample-deployment-id",
+  "isResourceDeleted": false,
+  "resourceMetadata": {
+    "arn": "arn:aws:proton:us-east-1:123456789012:service/test-service/service-instance/test-instance",
+    "templateArn": "arn:aws:proton:us-east-1:123456789012:service-template/sample-service",
+    "templateMajorVersion": "1",
+    "templateMinorVersion": "0"
+  }
+}
